@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(252, 225, 243);
+}
+.header .logo{
+    background-image: url(img/hand.jpg);
+} 
+.header .button{
+    border-bottom: 15px;
+}
